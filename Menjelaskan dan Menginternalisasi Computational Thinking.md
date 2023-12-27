@@ -1,4 +1,4 @@
-##Computational Thinking
+## Computational Thinking
 Computational Thinking (Pemikiran Komputasional) adalah suatu pendekatan dalam pemecahan masalah yang mencakup konsep dan metode yang umumnya digunakan dalam komputasi. Pemikiran komputasional melibatkan cara berpikir yang terstruktur dan sistematis, yang dapat membantu seseorang untuk merancang solusi efektif untuk masalah kompleks. Untuk menjelaskan dan menginternalisasi pemikiran komputasional, kita dapat memahami konsep dan langkah-langkahnya.
 
     Decomposition (Dekomposisi):
@@ -24,7 +24,7 @@ Computational Thinking (Pemikiran Komputasional) adalah suatu pendekatan dalam p
     Problem Solving (Pemecahan Masalah):
         Menggunakan pemikiran komputasional untuk merancang solusi yang efektif dan efisien.
         Contoh: Ketika menghadapi masalah kompleks, kita dapat menerapkan langkah-langkah pemikiran komputasional untuk memecahnya menjadi bagian-bagian yang lebih kecil dan lebih mudah dipecahkan.
-##membuat solusi
+## membuat solusi
 Untuk membuat solusi dalam bentuk program yang efektif dan efisien, terutama dalam konteks pengembangan produk keinformatikaan, dapat mengikuti langkah-langkah dasar pemikiran komputasional. Berikut adalah panduan umum:
 
     Pahami Masalah:
