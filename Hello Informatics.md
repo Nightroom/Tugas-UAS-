@@ -104,3 +104,5 @@ https://youtu.be/Qr_ml2oaE_k?si=BQwrLKBQHic6SWJ3
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 https://youtu.be/W5Wdwqgqm5A?si=FCW2fPX8D9GfMmCs
+## 54. Mencoba Console Sistem Operasi
+https://youtu.be/ijkq6wqDIiU?si=mvRlWzsljcNwi0-N
