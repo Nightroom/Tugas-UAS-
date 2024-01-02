@@ -101,7 +101,8 @@ https://youtu.be/kGt3UTfbmxU?si=G5cEWKmj8YBYgluH
 ## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://youtu.be/Qr_ml2oaE_k?si=BQwrLKBQHic6SWJ3
 ## 52. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
+![Contoh](https://github.com/Nightroom/Tugas-UAS-/blob/main/Screenshot%20(168).png)
+![Contoh](https://github.com/Nightroom/Tugas-UAS-/blob/main/Screenshot%20(167).png)
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 https://youtu.be/W5Wdwqgqm5A?si=FCW2fPX8D9GfMmCs
 ## 54. Mencoba Console Sistem Operasi
