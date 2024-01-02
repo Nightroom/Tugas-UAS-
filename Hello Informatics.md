@@ -37,7 +37,7 @@ https://youtu.be/ulp2_LUN4Ms?si=-dRwepE_40MmbX6-
 ## 19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 https://youtu.be/Dhg7-NJaojM?si=LvqMEmq6vADwn4XR
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+https://youtu.be/SlaJ_-NsQJs
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## 22. Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
