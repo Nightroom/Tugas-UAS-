@@ -31,7 +31,7 @@ https://youtu.be/PKtoqCqT334?si=MZUTbp7Hm1o_CceV
 ## 16. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 https://youtu.be/8NnwfnIlAYk?si=9koJmwMeSA0sYXBf
 ## 17. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
+https://youtu.be/Fc6IziJYNmw
 ## 18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 https://youtu.be/ulp2_LUN4Ms?si=-dRwepE_40MmbX6-
 ## 19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
