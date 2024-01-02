@@ -61,7 +61,7 @@ https://youtu.be/QXT0gFvtuw0?si=hjxkv6Jm2c6M6iT_
 ## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 https://youtu.be/bf3AS6exqy0?si=v9jxP234_KF3Fdx_
 ## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
+https://youtu.be/C2nApHmVd_4
 ## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 https://youtu.be/GQBhRogLxo0?si=MSNULmQNI2rTBeQw
 ## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
